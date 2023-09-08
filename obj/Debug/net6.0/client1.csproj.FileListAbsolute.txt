@@ -1,0 +1,15 @@
+E:\VSCode\C#\client1\bin\Debug\net6.0\client1.exe
+E:\VSCode\C#\client1\bin\Debug\net6.0\client1.deps.json
+E:\VSCode\C#\client1\bin\Debug\net6.0\client1.runtimeconfig.json
+E:\VSCode\C#\client1\bin\Debug\net6.0\client1.dll
+E:\VSCode\C#\client1\bin\Debug\net6.0\client1.pdb
+E:\VSCode\C#\client1\obj\Debug\net6.0\client1.csproj.AssemblyReference.cache
+E:\VSCode\C#\client1\obj\Debug\net6.0\client1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCode\C#\client1\obj\Debug\net6.0\client1.AssemblyInfoInputs.cache
+E:\VSCode\C#\client1\obj\Debug\net6.0\client1.AssemblyInfo.cs
+E:\VSCode\C#\client1\obj\Debug\net6.0\client1.csproj.CoreCompileInputs.cache
+E:\VSCode\C#\client1\obj\Debug\net6.0\client1.dll
+E:\VSCode\C#\client1\obj\Debug\net6.0\refint\client1.dll
+E:\VSCode\C#\client1\obj\Debug\net6.0\client1.pdb
+E:\VSCode\C#\client1\obj\Debug\net6.0\client1.genruntimeconfig.cache
+E:\VSCode\C#\client1\obj\Debug\net6.0\ref\client1.dll
